@@ -1,11 +1,7 @@
 <h1 align=center><b>Hello 👋<br>I am Alexander<br>A Student and a Coder</b>
  ## 💡 About 
- <a href="https://github.com/agam778"> 
-   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&theme=dark&show_icons=true)"> 
-   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778&theme=dark"> 
- </a> 
   
- Hi, my name is **Agampreet Singh**. I am: 
+ Hi, my name is **Alexander Emelyanov**. I am: 
   
  - 🇷🇺A boy born and grew up in Russia
  - 💻 A developer (small projects right now and still learning)  
