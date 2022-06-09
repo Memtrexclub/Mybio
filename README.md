@@ -1,8 +1,4 @@
-<h1 align=center><b>Hello 👋<br>I am Alexander<br>A Student and a Coder</b><br><br><a href="https://discord.com/users/830422846567350293" target="_blank"><img src=https://lanyard.cnrad.dev/api/830422846567350293 alt="Discord Presence"></a><br><br><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=black" alt="Open source apps"></a> 
- &nbsp;<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/LINUX-orange?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a> 
- &nbsp;<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black" alt="VSCode"></a> 
- &nbsp;<a href="https://en.wikipedia.org/wiki/India"><img src="https://img.shields.io/badge/INDIA-red?style=for-the-badge&logo=Google%20Earth&logoColor=black" alt="India"></a></h1> 
-    
+<h1 align=center><b>Hello 👋<br>I am Alexander<br>A Student and a Coder</b>
  ## 💡 About 
  <a href="https://github.com/agam778"> 
    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&theme=dark&show_icons=true)"> 
