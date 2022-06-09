@@ -1,4 +1,4 @@
-<h1 align=center><b>Hello 👋<br>I am Alexander<br>A Student and a Coder</b>
+<b>Hello 👋<br>I am Alexander<br>A Student and a Coder</b>
  ## 💡 About 
   
  Hi, my name is **Alexander Emelyanov**. I am: 
